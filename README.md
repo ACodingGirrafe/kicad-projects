@@ -1,6 +1,6 @@
 # swing-pod v1.0
 
-PCB for a badminton swing-tracker pod. A Seeed XIAO ESP32-S3 and a SparkFun Micro 6DoF IMU (LSM6DSV16X) sit on a 36 x 28 mm, 2-layer, 0.8 mm board. It charges through USB-C or through magnetic pogo pads. Made in KiCad 10.0.7.
+An attempt to make PCB for a badminton swing-tracker pod for Jesus. A Seeed XIAO ESP32-S3 and a SparkFun Micro 6DoF IMU (LSM6DSV16X) sit on a 36 x 28 mm, 2-layer, 0.8 mm board. It charges through USB-C or through magnetic pogo pads. Made in KiCad 10.0.7.
 
 ## Files
 
