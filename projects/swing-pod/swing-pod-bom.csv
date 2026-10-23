@@ -1,0 +1,8 @@
+"Designator","Value","Footprint","Qty","Manufacturer","MPN","Alternate","DNP"
+"C1","100n","Capacitor_SMD:C_0603_1608Metric","1","Samsung","CL10B104KB8NNNC","",""
+"D1","1N5819","swing-pod:D_DO-41_P10.16mm_Horizontal_SOD-123_Alt","1","Diodes Inc.","1N5819-T","B5819W (SOD-123; SS14 is SMA and does NOT fit)",""
+"J1","BATT JST-PH","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal","1","JST","S2B-PH-K-S(LF)(SN)","",""
+"R1,R2","470k","Resistor_SMD:R_0603_1608Metric","2","Yageo","RC0603FR-07470KL","",""
+"R3,R4","4.7k","Resistor_SMD:R_0603_1608Metric","2","Yageo","RC0603FR-074K7L","",""
+"U1","XIAO ESP32-S3","Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-SMD","1","Seeed Studio","113991114","",""
+"U2","SparkFun Micro 6DoF LSM6DSV16X","swing-pod:SparkFun_Micro_6DoF_LSM6DSV16X_Flat","1","SparkFun","SEN-21336","",""
