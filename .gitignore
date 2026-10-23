@@ -1,0 +1,31 @@
+# ---- KiCad backups & autosaves ----
+*-backups/
+*.bak
+*.bck
+*-bak
+*~
+_autosave-*
+\#auto_saved_files#
+*.lck
+~*.lck
+
+# ---- Per-user / local state (changes every time a project is opened) ----
+*.kicad_prl
+fp-info-cache
+
+# ---- Old KiCad 5 cache files ----
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fab outputs (Gerbers, BOM, reports, zips) ARE committed on purpose,
+# in each project's outputs/ folder.
