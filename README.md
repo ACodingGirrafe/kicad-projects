@@ -1,2 +1,2 @@
-# kicad-projects
-kicad larp progress 
+# Swing Pod
+Badminton Telemetry Device for Jesus
